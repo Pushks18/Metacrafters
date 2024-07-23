@@ -1,1 +1,1 @@
-# Metacrafters
+# Metacrafters Solana Challenge
